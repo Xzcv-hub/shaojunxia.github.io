@@ -1,9 +1,9 @@
 ---
 title:          "Geometric Similarity in VLM Low-Level Vision Representations"
-# Website ordering date, not an arXiv submission date. Update when uploaded.
-date:           2026-09-17 00:00:00 +0000
+# Original arXiv submission date; Paper opens the latest version.
+date:           2026-10-01 00:06:17 +0000
 selected:       true
-pub:            "Manuscript"
+pub:            "arXiv preprint"
 pub_date:       "2026"
 abstract: >-
   GeoSim studies the geometry of low-level visual representations across seven VLMs and 24 tasks. Its four-level framework combines global similarity, local geometry, sparse feature decomposition, and topological analysis to characterize shared structure and the limits of agreement across tasks and models.
@@ -17,9 +17,7 @@ authors:
   - Anlan Sun#
   - Yuner Zhang
   - Xiaoyang Chen#
-# Replace this pending entry with the arXiv URL when available.
 links:
-  Paper:
-    pending: arXiv coming soon
+  Paper: https://arxiv.org/abs/2610.00848
   Code: https://github.com/Xzcv-hub/VLM-Representation-Learning
 ---

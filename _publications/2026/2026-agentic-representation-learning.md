@@ -1,9 +1,9 @@
 ---
 title:          "Agentic Representation Learning: How Should AI Agents Be Represented and Learned from Black-Box Agents?"
-# Website ordering date, not an arXiv submission date. Update when uploaded.
-date:           2026-09-17 00:00:00 +0000
+# Public v1 posting date; Paper links to the latest version.
+date:           2026-09-23 00:00:00 +0000
 selected:       true
-pub:            "Manuscript"
+pub:            "Preprints.org preprint"
 pub_date:       "2026"
 abstract: >-
   Agentic Representation Learning proposes a conceptual framework for learning reusable behavioral representations of AI agents from limited black-box interaction. The proposed characterizer selects informative probes under a cost budget, aiming to support behavior prediction and downstream agent adaptation.
@@ -17,8 +17,6 @@ authors:
   - Huangyuan Su
   - Jiahan Li
   - Yizhuo He#
-# Replace this pending entry with the arXiv URL when available.
 links:
-  Paper:
-    pending: arXiv coming soon
+  Paper: https://www.preprints.org/manuscript/202609.1971
 ---
